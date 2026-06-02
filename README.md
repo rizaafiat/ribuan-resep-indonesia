@@ -20,6 +20,11 @@ resep-app/
     └── index.html
 ```
 
+## Sumber Data
+
+Data resep pada repositori ini berasal dari dataset Hugging Face:
+- `junwatu/indonesian-recipes`
+
 ## Menjalankan
 
 ```bash
